@@ -1,0 +1,9 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "service": "Service",
+    "skills": "Skills",
+    "contact": "Contact"
+  }
+}
